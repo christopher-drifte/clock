@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/christopher-drifte/clock/compare/v1.1.0...v1.1.1) (2026-03-12)
+
+
+### Bug Fixes
+
+* add repository field to package.json for npm provenance ([66d927f](https://github.com/christopher-drifte/clock/commit/66d927f84d1bf0d6d520767541ae19e20d66847e))
+
 ## [1.1.0](https://github.com/christopher-drifte/clock/compare/v1.0.0...v1.1.0) (2026-03-12)
 
 
