@@ -1,0 +1,16 @@
+{
+  "name": "@christopher-drifte/today",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A simple module to display today's date while adding the maximum amount of CO2 to the atmosphere",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
