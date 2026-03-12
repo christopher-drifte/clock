@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "description": "A simple module to display today's date while adding the maximum amount of CO2 to the atmosphere",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christopher-drifte/clock.git"
+  },
   "devDependencies": {
     "jest": "^30.3.0"
   }
