@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/christopher-drifte/clock/compare/v1.2.0...v1.3.0) (2026-03-12)
+
+
+### Features
+
+* migrate to TypeScript with build step ([e65ac22](https://github.com/christopher-drifte/clock/commit/e65ac224692c74657f4b52ffded430e3f9049621))
+
+
+### Bug Fixes
+
+* regenerate package-lock.json to resolve merge conflicts ([e77efc4](https://github.com/christopher-drifte/clock/commit/e77efc46356d606f4fdcbb3ff1026cd85d119269))
+
 ## [1.2.0](https://github.com/christopher-drifte/clock/compare/v1.1.1...v1.2.0) (2026-03-12)
 
 
