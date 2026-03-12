@@ -5,13 +5,13 @@ A simple module to display today's date while adding the maximum amount of CO2 t
 ## Installation
 
 ```bash
-npm install @christopher-drifte/today
+npm install @christopher-drifte/clock
 ```
 
 ## Usage
 
 ```javascript
-import { date } from "@christopher-drifte/today";
+import { date } from "@christopher-drifte/clock";
 
 // Get today's date
 console.log(date);

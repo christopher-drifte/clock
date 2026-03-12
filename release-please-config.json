@@ -3,7 +3,7 @@
   "packages": {
     ".": {
       "release-type": "node",
-      "package-name": "@christopher-drifte/today"
+      "package-name": "@christopher-drifte/clock"
     }
   }
 }

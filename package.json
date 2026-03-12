@@ -1,5 +1,5 @@
 {
-  "name": "@christopher-drifte/today",
+  "name": "@christopher-drifte/clock",
   "version": "1.0.0",
   "type": "module",
   "main": "src/index.js",
