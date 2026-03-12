@@ -2,9 +2,16 @@
   "name": "@christopher-drifte/clock",
   "version": "1.2.0",
   "type": "module",
-  "main": "src/index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "data"
+  ],
   "scripts": {
-    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "NODE_OPTIONS=\"--experimental-vm-modules --no-warnings\" jest"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +22,10 @@
     "url": "https://github.com/christopher-drifte/clock.git"
   },
   "devDependencies": {
-    "jest": "^30.3.0"
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.5.0",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.6",
+    "typescript": "^5.9.3"
   }
 }

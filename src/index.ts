@@ -1,13 +1,16 @@
 import { dirname, join } from "path";
-
 import { fileURLToPath } from "url";
-import { formatDate } from "./utils.js";
 import { readFileSync } from "fs";
+import { formatDate } from "./utils.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const json = JSON.parse(
+interface DateData {
+  date: string;
+}
+
+const json: DateData = JSON.parse(
   readFileSync(join(__dirname, "..", "data", "date.json"), "utf8")
 );
 
