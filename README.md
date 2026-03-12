@@ -11,7 +11,7 @@ npm install @christopher-drifte/today
 ## Usage
 
 ```javascript
-import { date } from '@christopher-drifte/today';
+import { date } from "@christopher-drifte/today";
 
 // Get today's date
 console.log(date);

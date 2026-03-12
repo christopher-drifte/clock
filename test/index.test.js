@@ -1,9 +1,7 @@
 import { date } from "../src/index.js";
+import { formatDate } from "../src/utils.js";
 
 test("date export matches today's date", () => {
-  const today = `Today is ${new Date().toLocaleDateString(
-    "en-GB",
-    { day: "numeric", month: "long", year: "numeric" }
-  )}`;
+  const today = formatDate(new Date());
   expect(date).toBe(today);
 });
