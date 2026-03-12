@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/christopher-drifte/clock/compare/v1.3.0...v1.3.1) (2026-03-12)
+
+
+### Bug Fixes
+
+* add isolatedModules to tsconfig to resolve ts-jest warning ([cf9cf98](https://github.com/christopher-drifte/clock/commit/cf9cf98d8f6bd471129ab94559056f42ac158aef))
+
 ## [1.3.0](https://github.com/christopher-drifte/clock/compare/v1.2.0...v1.3.0) (2026-03-12)
 
 
