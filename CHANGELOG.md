@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/christopher-drifte/clock/compare/v1.1.1...v1.2.0) (2026-03-12)
+
+
+### Features
+
+* Update date to 2026-03-12T11:48:04.770+01:00 ([3a83094](https://github.com/christopher-drifte/clock/commit/3a8309417a78f2e50d4c5788ea01d68591f735b4))
+
 ## [1.1.1](https://github.com/christopher-drifte/clock/compare/v1.1.0...v1.1.1) (2026-03-12)
 
 
