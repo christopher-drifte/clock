@@ -16,7 +16,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "A simple module to display today's date while adding the maximum amount of CO2 to the atmosphere",
+  "description": "The world's most over-engineered way to display today's date. Fully automated with n8n, Release Please, GitHub Actions, and Dependabot. Because new Date() was too simple.",
   "repository": {
     "type": "git",
     "url": "https://github.com/christopher-drifte/clock.git"
