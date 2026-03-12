@@ -2,6 +2,8 @@
 
 A simple module to display today's date while adding the maximum amount of CO2 to the atmosphere.
 
+[![npm version](https://badge.fury.io/js/@christopher-drifte%2Fclock.svg)](https://www.npmjs.com/package/@christopher-drifte/clock)
+
 ## Installation
 
 ```bash
